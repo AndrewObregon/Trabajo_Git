@@ -5,3 +5,22 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-decoration: none;
 }
+
+header{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #bdbab2;
+    position: fixed;
+    right: 0px;
+}
+
+.registro{
+    float: right;
+    font-size: small;
+    margin: 5px;
+    list-style: none;
+    justify-content: space-between;
+    display: flex;
+}
